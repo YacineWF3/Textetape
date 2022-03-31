@@ -1,0 +1,11 @@
+Etape 1 : Home > Create Protection Group
+Etape 2 : Server > Managed by backup server 
+Etape 3 : Name 
+Etape 4 : Computers > Add > Individual Computer
+Etape 5 : Créer un utilisateur avec mot de passe
+Etape 6 : File level Backup (slower)
+Etape 7 : Cochez Personal files + The following file system objects
+Etape 8 : Add file system objects, et mettre le chemin du dossier git
+Etape 9 : Choisir la fréquence des backups
+Etape 10 : Choisir Enable application-aware processing
+Etape 11 : Cliquez sur Apply puis sur Finish
